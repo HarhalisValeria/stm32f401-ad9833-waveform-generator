@@ -1,0 +1,74 @@
+# STM32CubeIDE-specific folders and files
+/Debug/
+/Release/
+/build/
+/.settings/
+/.vscode/
+/.cproject
+/.project
+
+# Prerequisites
+*.d
+
+# Object files
+*.o
+*.ko
+*.obj
+
+# Linker output
+*.ilk
+*.map
+*.exp
+
+# Executables
+*.elf
+*.hex
+*.out
+*.exe
+*.app
+*.i*86
+*.x86_64
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Shared objects (including Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Kernel Module Compile Results
+*.mod*
+*.cmd
+.tmp_versions/
+modules.order
+Module.symvers
+Mkfile.old
+dkms.conf
+
+# Temporary and Backup Files
+*~
+*.bak
+*.swp
+*.tmp
+
+# Auto-generated Makefiles
+Makefile
+*.mk
+
+# Core Dumps
+*.core
